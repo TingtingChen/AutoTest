@@ -1,0 +1,37 @@
+2019-12-15 13:34:57,628 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2019-12-15 13:34:57,655 INFO o.a.j.JMeter: Loading user properties from: /Users/chentingting07/apache-jmeter-5.2.1/bin/user.properties
+2019-12-15 13:34:57,656 INFO o.a.j.JMeter: Loading system properties from: /Users/chentingting07/apache-jmeter-5.2.1/bin/system.properties
+2019-12-15 13:34:57,657 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: Version 5.2.1
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: java.version=1.8.0_101
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: os.arch=x86_64
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: os.version=10.15.1
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: java.awt.headless=null
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: Max memory     =3817865216
+2019-12-15 13:34:57,658 INFO o.a.j.JMeter: Available Processors =8
+2019-12-15 13:34:57,665 INFO o.a.j.JMeter: Default Locale=中文 (中国)
+2019-12-15 13:34:57,666 INFO o.a.j.JMeter: JMeter  Locale=中文 (中国)
+2019-12-15 13:34:57,666 INFO o.a.j.JMeter: JMeterHome=/Users/chentingting07/apache-jmeter-5.2.1
+2019-12-15 13:34:57,666 INFO o.a.j.JMeter: user.dir  =/Users/chentingting07/IdeaProjects/MyProject/ApiAutoTest
+2019-12-15 13:34:57,666 INFO o.a.j.JMeter: PWD       =/Users/chentingting07/IdeaProjects/MyProject/ApiAutoTest
+2019-12-15 13:34:57,668 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: KristendeMacBook-Pro.local FullName: localhost
+2019-12-15 13:35:00,418 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-12-15 13:35:00,433 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-12-15 13:35:00,433 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-12-15 13:35:00,500 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-12-15 13:35:02,514 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-15 13:35:02,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-15 13:35:02,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-15 13:35:02,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-15 13:35:02,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-12-15 13:35:02,515 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-12-15 13:35:02,851 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-12-15 13:35:02,852 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/chentingting07/apache-jmeter-5.2.1/bin/proxyserver.jks
+2019-12-15 13:35:02,987 INFO o.a.j.s.FileServer: Default base='/Users/chentingting07/IdeaProjects/MyProject/ApiAutoTest'
+2019-12-15 13:35:03,305 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-12-15 13:35:03,305 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-12-15 13:35:03,305 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-12-15 13:35:03,305 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
